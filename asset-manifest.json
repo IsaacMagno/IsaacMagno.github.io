@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myPort/static/css/main.72d2f2cd.css",
+    "main.js": "/myPort/static/js/main.449f1dfc.js",
+    "index.html": "/myPort/index.html",
+    "main.72d2f2cd.css.map": "/myPort/static/css/main.72d2f2cd.css.map",
+    "main.449f1dfc.js.map": "/myPort/static/js/main.449f1dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d2f2cd.css",
+    "static/js/main.449f1dfc.js"
+  ]
+}
